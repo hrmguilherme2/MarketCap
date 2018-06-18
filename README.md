@@ -10,3 +10,5 @@ MarketCap
 
 - JSON from COINCAP.IO
 - KingFisher
+- Image Cache
+- Endless Scroll
